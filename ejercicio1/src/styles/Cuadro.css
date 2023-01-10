@@ -1,0 +1,21 @@
+.cuadro{
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: fit-content;
+    inline-size: 245px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.text{
+    padding: 15px;
+    text-align: center;
+}
